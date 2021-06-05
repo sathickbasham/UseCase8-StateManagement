@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "Usecase8-StateManagement"
+  "defaultProject": "Usecase8-StateManagement",
+  "cli": {
+    "defaultCollection": "@ngrx/schematics"
+  }
 }
